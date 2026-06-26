@@ -37,6 +37,8 @@ This project is inspired by Andrej Karpathy's TinyLLM architecture.
 #### Clone repository
 ```bash
 git clone https://github.com/8ven0m8/SmallLLM-Pathology-Model.git
+
+cd SmallLLM-Pathology-Model
 ```
 
 #### Install dependencies
